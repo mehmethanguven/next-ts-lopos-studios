@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should to match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <section
+      id="feature"
+    >
+      <div
+        class="container relative flex flex-col max-w-6xl px-6 mx-auto my-32 text-gray-900 md:flex-row md:px-0"
+      >
+        <img
+          alt="features"
+          class="w-auto"
+          data-nimg="1"
+          decoding="async"
+          height="0"
+          loading="lazy"
+          sizes="100vh"
+          src="/_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=3840&q=75"
+          srcset="/_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=16&q=75 16w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=32&q=75 32w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=48&q=75 48w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=64&q=75 64w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=96&q=75 96w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=128&q=75 128w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=256&q=75 256w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=384&q=75 384w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=640&q=75 640w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=750&q=75 750w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=828&q=75 828w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2Fdesktop%2Fimage-interactive.jpg&w=3840&q=75 3840w"
+          style="color: transparent;"
+          width="0"
+        />
+        <div
+          class="p-6 pr-0 bg-white shadow-lg top-48 md:absolute md:right-0 md:py-20 md:pl-20"
+        >
+          <h2
+            class="max-w-lg mt-10 mb-6 font-sans text-4xl text-center text-gray-900 uppercase md:mt-0 md:text-left md:text-5xl"
+          >
+            The leader in interactive war
+          </h2>
+          <p
+            class="max-w-md text-center md:text-left"
+          >
+            Founded in 2011, Loopstudios has been producing world-class virtual reality projects for some of the best companies around the globe. Our award-winning creations have transformed businesses through digital experiences that bind to their brand.
+          </p>
+        </div>
+      </div>
+    </section>
+    <hr />
+    <section
+      id="creations"
+    >
+      <div
+        class="container max-w-6xl px-6 mx-auto my-32 text-gray-900 md:px-0"
+      >
+        <div
+          class="flex justify-center mb-20 md:justify-between"
+        >
+          <h2
+            class="text-4xl text-center uppercase md:text-left md:text-5xl"
+          >
+            Our Creations
+          </h2>
+          <button
+            class="hidden btn md:block"
+          >
+            See All
+          </button>
+        </div>
+        <div
+          class="flex flex-col justify-between w-full space-y-6 text-2xl text-white uppercase md:flex-row md:space-y-0 md:space-x-8"
+        >
+          <div
+            class="bg-slate-500"
+          >
+            <img
+              alt=""
+              class="hidden w-full h-auto transition duration-200 md:block:group:hover-scale-110"
+              src="/images/desktop/image-deep-earth.jpg"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</DocumentFragment>
+`;
